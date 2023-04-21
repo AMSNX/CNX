@@ -2,7 +2,7 @@
 <h1 align="center">CNX Pack</h1>
 
 <div align="center">
-<img src="./AMSNX/CNX/blob/main/background.bmp" alight-itens="center">
+<img src="./images/bootlogo.png" alight-itens="center">
 </div>
 
 [![GitHub contributors](https://img.shields.io/github/contributors/amsnx/cnx)](https://github.com/amsnx/cnx/graphs/contributors)
