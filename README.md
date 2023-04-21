@@ -11,7 +11,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/amsnx/cnx)](https://github.com/amsnx/cnx/issues)
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-GMPACK é um pacote all-in-one (tudo em um) baseado no custom firmware Atmosphère que inclui o hekate/nyx e vários outros homebrews. Assim como o Atmosphère ele não contém arquivos que habilitam pirataria!
+CNX é um pacote all-in-one (tudo em um) baseado no custom firmware Atmosphère que inclui o hekate/nyx e vários outros homebrews. Assim como o Atmosphère ele não contém arquivos que habilitam pirataria!
 
 ## **[FAÇA O DOWNLOAD POR AQUI!](https://github.com/amsnx/cnx/releases/latest)**
 
