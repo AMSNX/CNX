@@ -27,8 +27,8 @@ O CostelaBR design não detém nenhum direito de cópia sobre nenhum arquivo nes
 - Ao usar o CNX você está declarando ter consultado sua legislação local e estar legalmente apto a usá-lo com o propósito de rodar cópias (backup) dos seus jogos originais.
 - Você está declarando também ser o dono de todos os jogos originais dos quais você fez, faz ou fará cópias (backup).
 - O uso do CNX com o propósito diferente do que é permitido pela sua legislação local será feito sob a sua inteira responsabilidade, isentando-se assim a GameMod design.
-- O CostelaBR design não comercializa ou instala backup de jogos, ROMs de emuladores nem nenhum conteúdo que habilita a pirataria!
-- O CostelaBR design condena a pirataria. Apoie os desenvolvedores de jogos!
+- O CostelaBR não comercializa ou instala backup de jogos, ROMs de emuladores nem nenhum conteúdo que habilita a pirataria!
+- O CostelaBR condena a pirataria. Apoie os desenvolvedores de jogos!
 
 ## Agradecimentos especiais
 - [atmosphere-NX](https://github.com/atmosphere-NX/Atmosphere/) pelo Atmosphère.
