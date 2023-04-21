@@ -17,7 +17,7 @@ CNX é um pacote all-in-one (tudo em um) baseado no custom firmware Atmosphère 
 
 ## Como instalar
 - Formate seu microSD em FAT32 e descompacte o conteúdo do arquivo .zip na raiz.
-  - O processo de instalação deste pacote fica mais fácil quando é feito pelo homebrew [APG - Atualizador Pacote GameMod](https://github.com/amsnx/cnx-updater).
+  - O processo de instalação deste pacote fica mais fácil quando é feito pelo homebrew [CNX Pack Updater](https://github.com/amsnx/cnx-updater).
 
 ## Aviso legal
 O CostelaBR design não detém nenhum direito de cópia sobre nenhum arquivo neste pacote e todo o crédito pertence aos seus respectivos proprietários. Se o atual proprietário de um arquivo presente neste pacote solicitar a remoção de um arquivo, o removeremos imediatamente.
