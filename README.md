@@ -5,6 +5,13 @@
 <img src="./images/bootlogo.png" alight-itens="center">
 </div>
 
+
+***<h1 align="center">Se o pacote foi utíl para você considere fazer uma doação.<br />Muito Obrigado!</h1>***
+<p align="center">
+  <img width="507" height="500" src="./images/donate.png">
+</p>
+
+
 [![GitHub contributors](https://img.shields.io/github/contributors/amsnx/cnx)](https://github.com/amsnx/cnx/graphs/contributors)
 [![GitHub All Releases](https://img.shields.io/github/downloads/amsnx/cnx/total)](https://github.com/amsnx/cnx/releases)
 [![Latest release](https://img.shields.io/github/v/release/amsnx/cnx)](https://github.com/amsnx/cnx/releases)
@@ -20,7 +27,7 @@ CNX é um pacote all-in-one (tudo em um) baseado no custom firmware Atmosphère 
   - O processo de instalação deste pacote fica mais fácil quando é feito pelo homebrew [CNX Pack Updater](https://github.com/amsnx/cnx-updater).
 
 ## Aviso legal
-O CostelaBR design não detém nenhum direito de cópia sobre nenhum arquivo neste pacote e todo o crédito pertence aos seus respectivos proprietários. Se o atual proprietário de um arquivo presente neste pacote solicitar a remoção de um arquivo, o removeremos imediatamente.
+O CostelaBR não detém nenhum direito de cópia sobre nenhum arquivo neste pacote e todo o crédito pertence aos seus respectivos proprietários. Se o atual proprietário de um arquivo presente neste pacote solicitar a remoção de um arquivo, o removeremos imediatamente.
 
 - O CNX, assim como o Atmosphère, não habilita a pirataria no console e seu propósito principal é somente habilitar o usuário a rodar homebrews.
 - O uso do CNX com o propósito diferente do mencionado acima, como rodar cópias (backup) de jogos originais, é parcial ou totalmente proibida pela legislação de certos países.
