@@ -8,7 +8,7 @@
 
 ***<h1 align="center">Se o pacote foi utíl para você considere fazer uma doação.<br />Muito Obrigado!</h1>***
 <p align="center">
-  <img width="507" height="500" src="./images/donate.jpgg">
+  <img width="507" height="500" src="./images/donate.jpg">
 </p>
 
 
